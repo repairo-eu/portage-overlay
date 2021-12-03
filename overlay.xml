@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<repositories version="1.0">
+    <repo priority="50" quality="experimental" status="unofficial">
+        <name>repairo</name>
+        <description>Various stuff by Repairo SIA.</description>
+        <homepage>https://repairo.eu</homepage>
+        <owner>
+            <email>kristaps@repairo.eu</email>
+        </owner>
+        <source type="git">https://github.com/repairo-eu/portage-overlay</source>
+    </repo>
+</repositories>
